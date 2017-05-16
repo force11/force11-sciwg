@@ -1,9 +1,9 @@
 
 # Force2017 Software Citation Implementation Working Group
 
-Sign up and obtain more information on [Home Page](https://www.force11.org/group/software-citation-implementation-working-group).
+Sign up and obtain more information on the [Home Page](https://www.force11.org/group/software-citation-implementation-working-group).
 The group is open to everyone who wants to help promote the implementation of
-the Force11 software citation principles.
+the Force11 [software citation principles](https://doi.org/10.7717/peerj-cs.86).
 All active group members are listed [here](https://www.force11.org/group/7784/members).
 The mailing list for group members is [softwarecitationimplementationwg@force11.org]( softwarecitationimplementationwg@force11.org).
 
@@ -14,35 +14,37 @@ The group started in May 2017 and will wrap up work in December 2018.
 
 ## Description
 
-This group builds on the previous Software Citation Working Group, which developed
-and publicized an initial set of software citation principles ([https://doi.org/10.7717/peerj-cs.86](https://doi.org/10.7717/peerj-cs.86)).
-The activities of the Software Citation Implementation Working Group are: work with
+This group builds on the previous [Software Citation Working Group](https://www.force11.org/group/software-citation-working-group), 
+which developed and publicized an initial set of software citation principles ([https://doi.org/10.7717/peerj-cs.86](https://doi.org/10.7717/peerj-cs.86)).
+
+The activities of the Software Citation Implementation Working Group will be conducted with
 relevant stakeholders (publishers, librarians, archivists, funders, repository developers,
 other community forums with related working groups, etc.) to:
 
 1. endorse the principles
 2. develop sets of guidelines for implementing the principles
 3. help implement the principles
-4. test specific implementations of the principles. During this process, the
-   principles may also be updated based on feedback from the activities.
+4. test specific implementations of the principles. 
+
+During this process, the principles may also be updated based on feedback from the activities.
 
 ## Co-Chairs
 
 - [Dan Katz](https://github.com/danielskatz)
-- [Neil Choe Hong](https://github.com/npch)
+- [Neil Chue Hong](https://github.com/npch)
 - [Martin Fenner](https://github.com/mfenner)
 
 ## Virtual and In-person Meetings
 
-We will kick-off the project via two staggered telcons, introduce draft plans and get feedback
-on scope of work. Agreed one these times for kickoff telcons:
+We will kick-off the project via two staggered telcons, where the co-chairs will introduce draft plans and get feedback
+on the scope of work. The kick-off telcons will be held at:
 
-- 2nd June 2017 at 07:00 Chicago / 12:00 UTC / 13:00 UK
-- 6th June 2017 at 08:00 Denver / 14:00 UTC / 15:00 UK
+- 2nd June 2017 at 07:00 CDT / 08:00 EDT / 12:00 UTC / 13:00 BST / 14:00 CEST / 15:00 EEST / 22:00 AEST
+- 6th June 2017 at 07:00 PDT / 08:00 MDT / 09:00 CDT / 10:00 EDT / 14:00 UTC / 15:00 BST / 16:00 CEST / 17:00 EEST / 00:00+1 AEST
 
-After initial telcons, the group will meet monthly at a dedicated time.
+After the initial telcons, the group will meet monthly at a dedicated time.
 
-We will organize in-person workshops either co-located with other events, or when
+We will organize in-person workshops either co-located with other events, or where
 we have obtained funding to organize workshops. These in-person workshops will
 focus on specific topics, e.g. handling software citations in publishers systems.
 
