@@ -86,6 +86,8 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - [NITRC (Neuroimaging Informatics Tools and Resources Clearinghouse)](https://www.nitrc.org) 
 - [Austrialian National Data Service (ANDS)](https://researchdata.ands.org.au)
 - Australian Software Citation interest group
+- [Zenodo](https://zenodo.org)
+- [figshare](https://figshare.com)
  
 
 ## Potential early adopter groups
