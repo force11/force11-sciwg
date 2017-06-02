@@ -82,6 +82,7 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - Astrophysics Source Code Library: http://ascl.net/
 - SBGrid: https://sbgrid.org
 - swMATH: http://www.swmath.org
+- AAS tutorial on Citing Repositories in AAS Journals (AJ/ApJ) https://github.com/AASJournals/Tutorials/blob/master/Repositories/CitingRepositories.md
 
 ## Potential early adopter groups
 
