@@ -4,66 +4,96 @@ Attending: Dan Katz, Martin Fenner, Neil Chue Hong, August Muench, Kristian, Dav
 
 These are raw notes from the chat log of the meeting.
 
-From Me to Everyone: (01:02 pm)
+Neil (01:02 pm)
 https://github.com/force11/force11-sciwg/blob/master/index.md
-From Daniel S. Katz to Everyone: (01:03 pm)
+
+Daniel S. Katz (01:03 pm)
 https://github.com/force11/force11-sciwg/projects/1
-From Me to Everyone: (01:04 pm)
-This group builds on the previous Software Citation Working Group, which developed and publicized an initial set of software citation principles (https://doi.org/10.7717/peerj-cs.86).  The activities of the Software Citation Implementation Working Group will be conducted with relevant stakeholders (publishers, librarians, archivists, funders, repository developers, other community forums with related working groups, etc.) to:  endorse the principles develop sets of guidelines for implementing the principles help implement the principles test specific implementations of the principles. During this process, the principles may also be updated based on feedback from the activities.
-From Daniel S. Katz to Everyone: (01:04 pm)
+
+Neil (01:04 pm)
+This group builds on the previous Software Citation Working Group, which developed and publicized an initial set of software citation principles (https://doi.org/10.7717/peerj-cs.86).  The activities of the Software Citation Implementation Working Group will be conducted with relevant stakeholders (publishers, librarians, archivists, funders, repository developers, other community forums with related working groups, etc.) to:
+- endorse the principles
+- develop sets of guidelines for implementing the principles
+- help implement the principles
+- test specific implementations of the principles.
+During this process, the principles may also be updated based on feedback from the activities.
+
+Daniel S. Katz (01:04 pm)
 description - https://github.com/force11/force11-sciwg/blob/master/index.md
-From Me to Everyone: (01:15 pm)
+
+Neil (01:15 pm)
 - August Muench
 - Kristian
 - David Kennedy
 - Mingfang Wu
 - Qian Zhang
 August: software citation in astronomy
-From August Muench to Everyone: (01:17 pm)
+
+August Muench (01:17 pm)
 https://github.com/AASJournals/Tutorials/blob/master/Repositories/CitingRepositories.md
-From Me to Everyone: (01:20 pm)
+
+Neil (01:20 pm)
 Kristian: developer at DataCite. Interest in supporting reference managers.
 David: co-leader of NITRC neuroimaging clearing house. Want to ensure implementing best practice for software.
-From Mingfang Wu to Everyone: (01:22 pm)
+
+Mingfang Wu (01:22 pm)
 https://researchdata.ands.org.au/search/#!/rows=15/sort=score%20desc/class=collection/q=software/p=1/
-From davidkennedy to Everyone: (01:23 pm)
+
+davidkennedy (01:23 pm)
 NITRC, in general: http://www.nitrc.org/
-From Mingfang Wu to Everyone: (01:25 pm)
+
+Mingfang Wu (01:25 pm)
 (link removed to presentation)
-From Me to Everyone: (01:25 pm)
+
+Neil (01:25 pm)
 Mingfang: ANDS business analyst. Learn how to improve practice of software publishing / description at ANDS, to help provide advice to ANDS partners. ANDS want software metadata description standout from research data. Coordinating Australian Software Citation interest group.
-From Me to Everyone: (01:26 pm)
+
+Neil (01:26 pm)
 Note: do not add google drive link above to GitHub without permission from speaker
 Qian: postdoc at UIUC. Looking to enable support for citation in RDM services. Example of an implementation case.
-From Daniel S. Katz to Everyone: (01:30 pm)
+
+Daniel S. Katz (01:30 pm)
 And I see Lars has joined since Neil created the speaker list
-From Me to Everyone: (01:32 pm)
+
+Neil (01:32 pm)
 Lars: Collaboration with August. Service manager of Zenodo, experience to share with the group. Optimise how we archive software and get it cited. Issue about getting citations back to Zenodo.
-From Me to Everyone: (01:35 pm)
+
+Neil (01:35 pm)
 Martin: DataCite interest in understanding how to implement for software
-From Martin Fenner to Everyone: (01:35 pm)
+
+Martin Fenner (01:35 pm)
 Feel free to add issues, or add comments to one of the existing issues: https://github.com/force11/force11-sciwg/issues
-From Me to Everyone: (01:36 pm)
+
+Neil (01:36 pm)
 Dan: chair of previous group. Previous as a funder, interested in how that this can be used to help improve projects. Also improve careers.
-From Martin Fenner to Everyone: (01:37 pm)
+
+Martin Fenner (01:37 pm)
 Neil works for the Software Sustainabilty Institute. He is interested n pushing better career paths for researchers writing software, so needs to understand what makes software citation work.
 Secondly, understand how citations can be found and collected.
-From Me to Everyone: (01:39 pm)
+
+Neil (01:39 pm)
 Feedback and questions on the group?
-From Daniel S. Katz to Everyone: (01:39 pm)
+
+Daniel S. Katz (01:39 pm)
 https://github.com/force11/force11-sciwg/blob/master/index.md
-From Me to Everyone: (01:39 pm)
+
+Neil (01:39 pm)
 What are the first things that we should address to help?
 David would like to know how NITRC could promote principles.
 JATS support for software citation.
-From Martin Fenner to Everyone: (01:45 pm)
+
+Martin Fenner (01:45 pm)
 Github issue regarding JATS for software citation: https://github.com/force11/force11-sciwg/issues/7
-From Martin Fenner to Everyone: (01:49 pm)
+
+Martin Fenner (01:49 pm)
 DataCite Metadata WG is working on software citation support in DataCite metadata. https://github.com/force11/force11-sciwg/issues/14
-From Me to Everyone: (01:50 pm)
+
+Neil (01:50 pm)
 Dan, Martin and Neil will take input from the calls and create a list of potential tasks. Will be useful to know what people are really interested in working on. We’ll surface these as GitHub issues, so please make sure you know where this is.
-From Qian Zhang to Everyone: (01:51 pm)
+
+Qian Zhang (01:51 pm)
 Hi all, sorry i need to run for another meeting. i am wondering if we could start with some specific software (better keeps evolving) to implement for. nice meeting you all! i’ll check the notes later. thanks! bye.
-From Me to Everyone: (01:51 pm)
+
+Neil (01:51 pm)
 We’ll organise future calls via Doodle.
 By next call, have a list of low hanging fruit that we can tackle first and people can participate.
