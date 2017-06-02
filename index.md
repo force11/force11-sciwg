@@ -83,6 +83,7 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - [SBGrid](https://sbgrid.org)
 - [swMATH](http://www.swmath.org)
 - [AAS tutorial on Citing Repositories in AAS Journals (AJ/ApJ)](https://github.com/AASJournals/Tutorials/blob/master/Repositories/CitingRepositories.md)
+- [NITRC (Neuroimaging Informatics Tools and Resources Clearinghouse)](https://www.nitrc.org) 
 - [Austrialian National Data Service (ANDS)](https://researchdata.ands.org.au)
 - Australian Software Citation interest group
  
@@ -95,5 +96,5 @@ What are the early adopter groups who could be persuaded to write papers followi
 - math
 - geosciences
 - structural biology
-- [NITRC (Neuroimaging Informatics Tools and Resources Clearinghouse)](https://www.nitrc.org) 
+- neuroimaging
 - [ACAT workshop](https://indico.cern.ch/event/567550/) - tools for applied physics, badge if they cite software
