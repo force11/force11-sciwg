@@ -83,7 +83,7 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - [SBGrid](https://sbgrid.org)
 - [swMATH](http://www.swmath.org)
 - [AAS tutorial on Citing Repositories in AAS Journals (AJ/ApJ)](https://github.com/AASJournals/Tutorials/blob/master/Repositories/CitingRepositories.md)
-- [Austrialia National Data Service (ANDS)](https://researchdata.ands.org.au)
+- [Austrialian National Data Service (ANDS)](https://researchdata.ands.org.au)
 - Australian Software Citation interest group
  
 
