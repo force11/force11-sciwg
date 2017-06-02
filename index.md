@@ -30,7 +30,7 @@ During this process, the principles may also be updated based on feedback from t
 
 ## Co-Chairs
 
-- [Dan Katz](https://github.com/danielskatz)
+- [Daniel S. Katz](https://github.com/danielskatz)
 - [Neil Chue Hong](https://github.com/npch)
 - [Martin Fenner](https://github.com/mfenner)
 
@@ -80,6 +80,8 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 
 - Codemeta: http://codemeta.github.io/
 - Astrophysics Source Code Library: http://ascl.net/
+- SBGrid: https://sbgrid.org
+- swMATH: http://www.swmath.org
 
 ## Potential early adopter groups
 
