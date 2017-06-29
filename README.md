@@ -89,6 +89,10 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - Australian Software Citation interest group
 - [Zenodo](https://zenodo.org)
 - [figshare](https://figshare.com)
+- The [Network for Computational Modeling in the Social and Ecological Sciences](https://www.comses.net) maintains a
+  [Computational Model Library](https://www.openabm.org/models) with versioned releases of agent based models. A new
+  version of the Computational Model Library is currently [under development](https://github.com/comses/core.comses.net),
+  applying principles from this working group and serving as an example implementation of a citable code archive.
  
 
 ## Potential early adopter groups
