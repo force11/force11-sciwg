@@ -96,6 +96,7 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 What are the early adopter groups who could be persuaded to write papers following software citation principles and using software citation tools?
 
 - astronomy
+  - [Large Synoptic Survey Telescope](https://www.lsst.org)
 - math
 - geosciences
 - structural biology
