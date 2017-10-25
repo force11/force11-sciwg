@@ -2,7 +2,7 @@
 
 This is where you can find out more about the hackathon events run as part of the Software Citation Implementation WG.
 
-[FORCE2017 Hackathon](https://github.com/force11/force11-sciwg/master/hackathons/FORCE2017-hackathon.md) - 25 October 2017, Berlin and remote participation
+[FORCE2017 Hackathon](https://github.com/force11/force11-sciwg/blob/master/hackathons/FORCE2017-hackathon.md) - 25 October 2017, Berlin and remote participation
 
 ## Logistics
 
