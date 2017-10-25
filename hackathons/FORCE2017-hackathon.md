@@ -54,5 +54,5 @@ We will not be running a video stream from the room as there is not a projector/
 
 - [CodeMeta Schema v2.0](https://raw.githubusercontent.com/codemeta/codemeta/2.0/codemeta.jsonld)
 - [DataCite Schema v4.1](http://schema.datacite.org/meta/kernel-4.1/)
-- [Citation Style Language](http://citationstyles.org/)
+- [Citation Style Language](http://citationstyles.org/) and [Developer Information](http://citationstyles.org/developers/)
 - [Citation File Format](https://citation-file-format.github.io/)
