@@ -35,5 +35,20 @@ We will use Gitter as our chat mechanism during Hackathons - click the badge bel
 
 Ideas for the Hackathon have been proposed here: https://github.com/force11/force11-sciwg/issues?q=is%3Aissue+is%3Aopen+label%3A%22FORCE2017+Hack%22
 
+### Joining in person
+
+The Atelier room is on the 2nd floor - take the stairs next to registration.
+You can come for the whole session, drop in and out, or join at any time. If you want to find out what you can work on, speak to Neil or Lars when you enter the room.
+
+### Joining remotely
+
+We are aiming to coordinate remote participation through Gitter. 
+When you join Gitter, please introduce yourself, letting the group know your skills, interests and time availability. 
+We'll then assign you to a hackathon group working on a task.
+
 ## Useful Links
 
+- [CodeMeta Schema v2.0](https://raw.githubusercontent.com/codemeta/codemeta/2.0/codemeta.jsonld)
+- [DataCite Schema v4.1](http://schema.datacite.org/meta/kernel-4.1/)
+- [Citation Style Language](http://citationstyles.org/)
+- [Citation File Format](https://citation-file-format.github.io/)
