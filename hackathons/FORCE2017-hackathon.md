@@ -48,6 +48,8 @@ We are aiming to coordinate remote participation through Gitter.
 When you join Gitter, please introduce yourself, letting the group know your skills, interests and time availability. 
 We'll then assign you to a hackathon group working on a task.
 
+We will not be running a video stream from the room as there is not a projector/screen, and the wifi might not be stable enough. However we will have the possibility of doing audio meetings if required.
+
 ## Useful Links
 
 - [CodeMeta Schema v2.0](https://raw.githubusercontent.com/codemeta/codemeta/2.0/codemeta.jsonld)
