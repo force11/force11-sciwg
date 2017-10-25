@@ -35,6 +35,8 @@ We will use Gitter as our chat mechanism during Hackathons - click the badge bel
 
 Ideas for the Hackathon have been proposed here: https://github.com/force11/force11-sciwg/issues?q=is%3Aissue+is%3Aopen+label%3A%22FORCE2017+Hack%22
 
+Google Doc for shared notetaking: https://docs.google.com/document/d/1X45xCKiCozCZUqGvGC2ksGQACA6lugcSqelH7fXDi6w/edit
+
 ### Joining in person
 
 The Atelier room is on the 2nd floor - take the stairs next to registration.
