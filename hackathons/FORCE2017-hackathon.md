@@ -14,7 +14,8 @@ We will be physically meeting in the Atelier Room from 10:00 - 18:00 (Central Eu
 
 The start of the session will cover introductions to:
 - [Software Citation Implementation WG](https://www.force11.org/group/software-citation-implementation-working-group)
-- People in the room and skills
+	- [Software Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final)
+- Introductions of People in the room: skills and interests
 - [Software Heritage](https://www.softwareheritage.org/)
 - [swMath](http://www.swmath.org/)
 - [CodeMeta](https://github.com/codemeta/codemeta)
@@ -38,6 +39,9 @@ Ideas for the Hackathon have been proposed here: https://github.com/force11/forc
 
 Google Doc for shared notetaking: https://docs.google.com/document/d/1X45xCKiCozCZUqGvGC2ksGQACA6lugcSqelH7fXDi6w/edit
 
+The WG's GitHub repo is at: https://github.com/force11/force11-sciwg
+We need to decide whether we will create directories in this repo (under src/ perhaps) or work in other repos and link to them.
+
 ### Joining in person
 
 The Atelier room is on the 2nd floor - take the stairs next to registration.
@@ -53,6 +57,8 @@ We will not be running a video stream from the room as there is not a projector/
 
 ## Useful Links
 
+- [Software Citation Principles](https://www.force11.org/software-citation-principles)
+- [Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final)
 - [CodeMeta Schema v2.0](https://raw.githubusercontent.com/codemeta/codemeta/2.0/codemeta.jsonld)
 - [DataCite Schema v4.1](http://schema.datacite.org/meta/kernel-4.1/)
 - [Citation Style Language](http://citationstyles.org/) and [Developer Information](http://citationstyles.org/developers/)
