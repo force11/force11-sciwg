@@ -18,6 +18,7 @@ The start of the session will cover introductions to:
 - Introductions of People in the room: skills and interests
 - [Software Heritage](https://www.softwareheritage.org/)
 - [swMath](http://www.swmath.org/)
+- [Zenodo](https://zenodo.org/)
 - [CodeMeta](https://github.com/codemeta/codemeta)
 - [DataCite v4.1 schema](http://schema.datacite.org/meta/kernel-4.1/) - [blog post](https://blog.datacite.org/metadata-schema-4-1/)
 - Logistics
