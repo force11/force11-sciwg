@@ -16,6 +16,7 @@ The start of the session will cover introductions to:
 - [Software Citation Implementation WG](https://www.force11.org/group/software-citation-implementation-working-group)
 - People in the room and skills
 - [Software Heritage](https://www.softwareheritage.org/)
+- [swMath](http://www.swmath.org/)
 - [CodeMeta](https://github.com/codemeta/codemeta)
 - [DataCite v4.1 schema](http://schema.datacite.org/meta/kernel-4.1/) - [blog post](https://blog.datacite.org/metadata-schema-4-1/)
 - Logistics
