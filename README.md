@@ -14,7 +14,7 @@ The group started in May 2017 and will wrap up work in December 2018.
 
 ## Description
 
-This group builds on the previous [Software Citation Working Group](https://www.force11.org/group/software-citation-working-group), 
+This group builds on the previous [Software Citation Working Group](https://www.force11.org/group/software-citation-working-group),
 which developed and publicized an initial set of software citation principles ([https://doi.org/10.7717/peerj-cs.86](https://doi.org/10.7717/peerj-cs.86)).
 
 The activities of the Software Citation Implementation Working Group will be conducted with
@@ -24,7 +24,7 @@ other community forums with related working groups, etc.) to:
 1. endorse the principles
 2. develop sets of guidelines for implementing the principles
 3. help implement the principles
-4. test specific implementations of the principles. 
+4. test specific implementations of the principles.
 
 During this process, the principles may also be updated based on feedback from the activities.
 
@@ -84,7 +84,7 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - [swMATH](http://www.swmath.org)
 - [CIG](https://geodynamics.org)
 - [AAS tutorial on Citing Repositories in AAS Journals (AJ/ApJ)](https://github.com/AASJournals/Tutorials/blob/master/Repositories/CitingRepositories.md)
-- [NITRC (Neuroimaging Informatics Tools and Resources Clearinghouse)](https://www.nitrc.org) 
+- [NITRC (Neuroimaging Informatics Tools and Resources Clearinghouse)](https://www.nitrc.org)
 - [Austrialian National Data Service (ANDS)](https://researchdata.ands.org.au)
 - Australian Software Citation interest group
 - [Zenodo](https://zenodo.org)
@@ -93,7 +93,8 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
   [Computational Model Library](https://www.openabm.org/models) with versioned releases of agent based models. A new
   version of the Computational Model Library is currently [under development](https://github.com/comses/core.comses.net),
   applying principles from this working group and serving as an example implementation of a citable code archive.
- 
+- [Software Heritage](https://www.softwareheritage.org/)
+
 
 ## Potential early adopter groups
 
