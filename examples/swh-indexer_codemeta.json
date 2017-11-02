@@ -1,0 +1,39 @@
+{
+  "@context": "https://raw.githubusercontent.com/codemeta/codemeta/2.0/codemeta.jsonld",
+  "@type": "SoftwareSourceCode",
+  "identifier": "5682a72dc61f86ae69f2841c2184d6159c0b6d5d",
+  "description": "Software Heritage Indexer for revisions and contents",
+  "name": "swh-indexer",
+  "isPartOf": {
+    "@type": "SoftwareSourceCode",
+    "name": "swh-environment",
+    "identifier": "83e766feafde91242883be1bf369ed3e6865824f"
+  },
+  "codeRepository": "https://forge.softwareheritage.org/diffusion/78/",
+  "issueTracker": "https://forge.softwareheritage.org/maniphest/",
+  "license": "https://spdx.org/licenses/GPL-3.0.html",
+  "version": "0.0.35",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "Software Heritage",
+      "url": "https://www.softwareheritage.org",
+      "email": "swh-devel@inria.fr"
+    },
+  ],
+  "developmentStatus": "active",
+  "keywords": [
+    "indexer",
+    "software",
+    "mimetype",
+    "ctags",
+    "language",
+    "fossology-license",
+    "metadata",
+    "metadata-detector",
+    "metadata-translator"
+  ],
+  "dateCreated":"2016-09-26",
+  "datePublished":"2017-06-12",
+  "programmingLanguage": "Python",
+}

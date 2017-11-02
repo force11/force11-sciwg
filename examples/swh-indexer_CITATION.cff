@@ -1,0 +1,31 @@
+cff-version: 1.0.0
+message: "Please cite this work with the properties given in this file"
+name: "swh-indexer"
+code-repository: https://forge.softwareheritage.org/diffusion/78/
+programming-language: 
+  - name: Python
+    version: 3.5
+license: https://spdx.org/licenses/GPL-3.0.html
+version: 0.0.35
+authors:
+  - name: Software Heritage
+    email: swh-devel@inria.fr
+    website: https://www.softwareheritage.org
+status: active
+keywords:
+  - indexer
+  - software
+  - mimetype
+  - ctags
+  - language
+  - fossology-license
+  - metadata
+  - metadata-detector
+  - metadata-translator
+references:
+  - type: article
+    title: Software Heritage indexing 4 billions files
+    identifier: my-doi
+date-published: "2016-09-26"
+date-created: "2015-06-12" 
+    
