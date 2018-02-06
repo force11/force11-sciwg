@@ -3,7 +3,7 @@
 
 Sign up and obtain more information on the [Home Page](https://www.force11.org/group/software-citation-implementation-working-group).
 The group is open to everyone who wants to help promote the implementation of
-the Force11 [software citation principles](https://doi.org/10.7717/peerj-cs.86).
+the FORCE11 [software citation principles](https://doi.org/10.7717/peerj-cs.86).
 All active group members are listed [here](https://www.force11.org/group/7784/members).
 The mailing list for group members is [softwarecitationimplementationwg@force11.org]( softwarecitationimplementationwg@force11.org).
 
