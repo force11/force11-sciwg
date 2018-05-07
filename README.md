@@ -36,19 +36,26 @@ During this process, the principles may also be updated based on feedback from t
 
 ## Virtual and In-person Meetings
 
-We will kick-off the project via two staggered telcons, where the co-chairs will introduce draft plans and get feedback
-on the scope of work. The kick-off telcons will be held at:
+Monthly virtual meetings are generally held at 06:00 PDT / 07:00 MDT / 08:00 CDT / 09:00 EDT / 13:00 UTC / 14:00 BST / 15:00 CEST / 16:00 EEST / 23:00 AEST on the first Tuesday of the month.
 
-- 2nd June 2017 at 07:00 CDT / 08:00 EDT / 12:00 UTC / 13:00 BST / 14:00 CEST / 15:00 EEST / 22:00 AEST
-- 6th June 2017 at 07:00 PDT / 08:00 MDT / 09:00 CDT / 10:00 EDT / 14:00 UTC / 15:00 BST / 16:00 CEST / 17:00 EEST / 00:00+1 AEST
+Meeting agendas and minutes can be found at: https://github.com/force11/force11-sciwg/tree/master/meetings
 
-After the initial telcons, the group will meet monthly at a dedicated time.
+We use Zoom to run these meetings.
+- [Join from PC, Mac, Linux, iOS or Android](https://zoom.us/j/268702722)
+- Join by telephone: [full list of dial-in numbers](https://zoom.us/zoomconference)
+   - Australia: +61 (0) 2 8015 2088
+   - Canada: +1 647 558 0588
+   - France: +33 (0) 1 8288 0188
+   - Germany: +49 (0) 30 3080 6188
+   - UK: +44 (0) 20 3695 0088
+   - USA: +1 408 740 3766 or +1 646 876 9923 or +1 669 900 6833
+- Meeting ID: 268 702 722
 
 We will organize in-person workshops either co-located with other events, or where
 we have obtained funding to organize workshops. These in-person workshops will
 focus on specific topics, e.g. handling software citations in publishers systems.
 
-In addition we will try to organize sessions in appropriate conferences, e.g.
+In addition we will organize sessions in appropriate conferences, e.g.
 [WSSSPE5](http://wssspe.researchcomputing.org.uk/) (September 2017 Manchester and
 October 2017 Auckland) and [Force2017](https://www.force11.org/meetings/force2017)
 (October 2017 Berlin). The goal of these sessions is to inform the wider community
