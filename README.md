@@ -5,7 +5,7 @@ Sign up and obtain more information on the [Home Page](https://www.force11.org/g
 The group is open to everyone who wants to help promote the implementation of
 the FORCE11 [software citation principles](https://doi.org/10.7717/peerj-cs.86).
 All active group members are listed [here](https://www.force11.org/group/7784/members).
-The mailing list for group members is [softwarecitationimplementationwg@force11.org]( softwarecitationimplementationwg@force11.org).
+The mailing list for group members is [softwarecitationimplementationwg@force11.org]( mailto:softwarecitationimplementationwg@force11.org).
 
 Use the group [GitHub repository](https://github.com/force11/force11-sciwg) for
 documentation and discussion.
