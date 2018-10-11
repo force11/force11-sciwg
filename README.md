@@ -1,5 +1,5 @@
 
-# Force2017 Software Citation Implementation Working Group
+# Force2017-2018 Software Citation Implementation Working Group
 
 Sign up and obtain more information on the [Home Page](https://www.force11.org/group/software-citation-implementation-working-group).
 The group is open to everyone who wants to help promote the implementation of
@@ -75,13 +75,13 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 
 ## What we need
 
-- reference managers support
-- citation styles support (most citation styles don't handle software specifically,
+- Reference managers' support
+- Citation style support (most citation styles don't handle software specifically,
   Citeproc doesn't have type software/computer program)
-- publisher support (ensure software references are not stripped, make them
+- Publisher support (ensure software references are not stripped, make them
   machine readable/discoverable)
-- reference implementations for software versioning
-- file with citation metadata in bibtex or json format (e.g. codemeta) in code repository root
+- Reference implementations for software versioning
+- File with citation metadata in bibtex or json format (e.g. codemeta) in code repository root
 
 ## Related initiatives and projects
 
@@ -113,5 +113,6 @@ What are the early adopter groups who could be persuaded to write papers followi
 - geosciences
 - structural biology
 - neuroimaging
+- genomics
 - [ACAT workshop](https://indico.cern.ch/event/567550/) - tools for applied physics, badge if they cite software
 - [Research Software Engineers](http://rse.ac.uk/) - also RSE-de and RSE-nl
