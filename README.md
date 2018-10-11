@@ -1,5 +1,5 @@
 
-# Force2017-2018 Software Citation Implementation Working Group
+# FORCE11 Software Citation Implementation Working Group
 
 Sign up and obtain more information on the [Home Page](https://www.force11.org/group/software-citation-implementation-working-group).
 The group is open to everyone who wants to help promote the implementation of
@@ -75,7 +75,7 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 
 ## What we need
 
-- Reference managers' support
+- Reference manager support
 - Citation style support (most citation styles don't handle software specifically,
   Citeproc doesn't have type software/computer program)
 - Publisher support (ensure software references are not stripped, make them
