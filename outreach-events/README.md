@@ -1,1 +1,2 @@
 Materials from a 2-day (6-hour) course on software citation at the 2017 [FORCE11 Scholarly Communications Institute](https://www.force11.org/fsci) are available: [https://doi.org/10.17605/OSF.IO/J8FHS](https://doi.org/10.17605/OSF.IO/J8FHS)
+Slides from our FORCE2018 update talk are [available](https://docs.google.com/presentation/d/e/2PACX-1vR01lDsFTWsjCHazCn1eKxOIpmU4NhjFz3ED8XJE8WZ9XHx-3NFHa5x2SuATYcwm0iNv7Xl0XY_-2dB/pub?start=false&loop=false&delayms=3000)
