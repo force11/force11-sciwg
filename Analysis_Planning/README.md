@@ -1,0 +1,1 @@
+Drafting diagram for the [A&P document](https://docs.google.com/document/d/1ze2Bh0pZXCy7_bHcC7CumQRmBAv8qP6reao4yU4JToY/edit?ts=5bb29c86#heading=h.r16j7ecdqpc3).
