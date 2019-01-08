@@ -115,4 +115,4 @@ What are the early adopter groups who could be persuaded to write papers followi
 - neuroimaging
 - genomics
 - [ACAT workshop](https://indico.cern.ch/event/567550/) - tools for applied physics, badge if they cite software
-- [Research Software Engineers](http://rse.ac.uk/) - also RSE-de and RSE-nl
+- [Research Software Engineers](http://rse.ac.uk/) - also [de-RSE](https://www.de-rse.org/en/) and [NL-RSE](https://nl-rse.org/)
