@@ -1,1 +1,1 @@
-Drafting diagram for the [A&P document](https://docs.google.com/document/d/1ze2Bh0pZXCy7_bHcC7CumQRmBAv8qP6reao4yU4JToY/edit?ts=5bb29c86#heading=h.r16j7ecdqpc3). XML can be rendered with [draw.io](https://www.draw.io/)
+Drafting diagram for the [A&P document](https://docs.google.com/document/d/1ze2Bh0pZXCy7_bHcC7CumQRmBAv8qP6reao4yU4JToY/edit?ts=5bb29c86#heading=h.r16j7ecdqpc3). You can view and comment on the diagrams using Lucid Chart [here](https://www.lucidchart.com/invitations/accept/bff22da3-eae7-4dca-a7a7-6e2478e43754).
