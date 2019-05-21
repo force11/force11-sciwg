@@ -9,7 +9,42 @@ Version history:
 20 May 2019 - version 1 complete
 
 **Table of Contents:**
-
+1. Introduction 
+	1.1 Document Purpose and Intended Audience  
+	1.2 Previous guidance   
+	1.3 Moving forward  
+	1.4 Future guidance and the limits of this specific document  
+2. Software types  
+3. Fundamental challenges  
+	3.1 How to identify software  
+	3.2 Metadata for software citation  
+	3.3 Storing metadata    
+	3.3.1 CodeMeta and the Citation File Format (CFF) comparison   
+	3.4 Converting citation metadata   
+	3.5 How to cite software in text  
+4. Stakeholder challenges  
+	4.1 Disciplinary communities  
+	4.2 Publishers  
+	4.3 Repositories  
+	4.4 Indexers  
+	4.4.1 How to count citations  
+	4.5 Funders  
+	4.6 Institutions  
+5. Previous thoughts on challenges  
+6. Discussion topics (based on items and comments above)  
+	6.1. Goal of this document/process  
+	6.2. Repositories  
+	6.3. Citation files  
+	6.4. "Concept" language  
+	6.5. Non-developer identification of software  
+	6.6. Bibtex  
+	6.7. Text citation styles for software  
+	6.8. Generating DOIs for "unversioned" software "packages"/"works"   
+	6.9. Discussion of specific tools  
+	6.10. Out of scope items  
+	6.11. Registries that store software metadata  
+	6.12. Collections: frameworks, components, and pipelines  
+	6.13. Identifiers for concepts vs for collections of versions  
 
 ## 1. Introduction
 
@@ -104,7 +139,7 @@ Instantiation status distinguishes between concrete instances of software, calle
 
 The intersections of these categories define six types of software as illustrated in Figure 1
 
-[figure 1]
+![Figure 1: Software Types Overview](https://raw.githubusercontent.com/dbouquin/force11-sciwg/master/Challenges/SCIWG_figure1.png)
 
 Figure 1: Differentiating between software types based on version availability 
 
@@ -284,7 +319,7 @@ In summary, metadata is generally not stored or is stored inaccessibly for CSC a
 
 Figure 2 builds on Figure 1, describing the different types of software (from Section 2), and adds information about metadata (from Section 3.2) and where it is stored (from Section 3.3).
 
-[figure 2]
+![Figure 2: Software Types Detailed](https://raw.githubusercontent.com/dbouquin/force11-sciwg/master/Challenges/SCIWG_figure2.png)
 
 Figure 2: Metadata recommendations specified by software type and licensing information 
 
@@ -710,5 +745,3 @@ Identifiers for concepts is an idea that has multiple possible meanings. One ide
 [^5]:
      Schema.org is a collaborative project to create & maintain vocabularies for structured data on the internet. It enables common understanding of shared terms.
 
-
-<!-- Docs to Markdown version 1.0β17 -->
