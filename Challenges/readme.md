@@ -9,42 +9,42 @@ Version history:
 20 May 2019 - version 1 complete
 
 **Table of Contents:**
-1. [Introduction](1.-introduction)   
-	1.1 [Document Purpose and Intended Audience](1.1-document-purpose-and-intended-audience)    
-	1.2 [Previous guidance](1.2-previous-guidance)   
-	1.3 [Moving forward](1.3-moving-forward)  
-	1.4 [Future guidance and the limits of this specific document](1.4-future-guidance-and-the-limits-of-this-specific-document) 
-2. [Software types](2.-software-types)  
-3. [Fundamental challenges](3.-fundamental-challenges)      
-	3.1 [How to identify software](3.1-how-to-identify-software)  
-	3.2 [Metadata for software citation](3.2-metadata-for-software-citation)  
-	3.3 [Storing metadata](3.3-storing-metadata)  
-		3.3.1 [CodeMeta and the Citation File Format (CFF) comparison](3.3.1-codeMeta-and-the-citation-file-format-(cff)-comparison)   
-	3.4 [Converting citation metadata](3.4-converting-citation-metadata)    
-	3.5 [How to cite software in text](3.5-how-to-cite-software-in-text)     
-4. [Stakeholder challenges](4.-stakeholder-challenges)    
-	4.1 [Disciplinary communities](4.1-disciplinary-communities)   
-	4.2 [Publishers](4.2-publishers)    
-	4.3 [Repositories](4.3-repositories)   
-	4.4 [Indexers](4.4-indexers)    
-		4.4.1 [How to count citations](4.4.1-how-to-count-citations)     
-	4.5 [Funders](4.5-funders)   
-	4.6 [Institutions](4.6-institutions)    
-5. [Previous thoughts on challenges](5.-previous-thoughts-on-challenges)    
-6. [Discussion topics (based on items and comments above)](6.-discussion-topics-(based-on-items-and-comments-above))   
-	6.1. [Goal of this document/process](6.1-goal-of-this-document/process)  
-	6.2. [Repositories](6.2-repositories)   
-	6.3. [Citation files](6.3-citation-files)    
-	6.4. ["Concept" language](6.4-"Concept"-language)    
-	6.5. [Non-developer identification of software](6.5-non-developer-identification-of-software)   
-	6.6. [Bibtex](6.6-bibtex)   
-	6.7. [Text citation styles for software](6.7-text-citation-styles-for-software)   
-	6.8. [Generating DOIs for "unversioned" software "packages"/"works"](6.8-generating-dois-for-"unversioned"-software-"packages"/"works")    
-	6.9. [Discussion of specific tools](6.9-discussion-of-specific-tools)   
-	6.10. [Out of scope items](6.10-out-of-scope-items)    
-	6.11. [Registries that store software metadata](6.11-registries-that-store-software-metadata)    
-	6.12. [Collections (e.g. frameworks, components, pipelines)](6.12.-collections-(e.g.-frameworks,-components,-pipelines))   
-	6.13. [Identifiers for concepts vs for collections of versions](6.12-identifiers-for-concepts-vs-for-collections-of-versions)    
+1. [Introduction](#1.-introduction)   
+	1.1 [Document Purpose and Intended Audience](#1.1-document-purpose-and-intended-audience)    
+	1.2 [Previous guidance](#1.2-previous-guidance)   
+	1.3 [Moving forward](#1.3-moving-forward)  
+	1.4 [Future guidance and the limits of this specific document](#1.4-future-guidance-and-the-limits-of-this-specific-document) 
+2. [Software types](#2.-software-types)  
+3. [Fundamental challenges](#3.-fundamental-challenges)      
+	3.1 [How to identify software](#3.1-how-to-identify-software)  
+	3.2 [Metadata for software citation](#3.2-metadata-for-software-citation)  
+	3.3 [Storing metadata](#3.3-storing-metadata)  
+		3.3.1 [CodeMeta and the Citation File Format (CFF) comparison](#3.3.1-codeMeta-and-the-citation-file-format-(cff)-comparison)   
+	3.4 [Converting citation metadata](#3.4-converting-citation-metadata)    
+	3.5 [How to cite software in text](#3.5-how-to-cite-software-in-text)     
+4. [Stakeholder challenges](#4.-stakeholder-challenges)    
+	4.1 [Disciplinary communities](#4.1-disciplinary-communities)   
+	4.2 [Publishers](#4.2-publishers)    
+	4.3 [Repositories](#4.3-repositories)   
+	4.4 [Indexers](#4.4-indexers)    
+		4.4.1 [How to count citations](#4.4.1-how-to-count-citations)     
+	4.5 [Funders](#4.5-funders)   
+	4.6 [Institutions](#4.6-institutions)    
+5. [Previous thoughts on challenges](#5.-previous-thoughts-on-challenges)    
+6. [Discussion topics (based on items and comments above)](#6.-discussion-topics-(based-on-items-and-comments-above))   
+	6.1. [Goal of this document/process](#6.1-goal-of-this-document/process)  
+	6.2. [Repositories](#6.2-repositories)   
+	6.3. [Citation files](#6.3-citation-files)    
+	6.4. ["Concept" language](#6.4-"Concept"-language)    
+	6.5. [Non-developer identification of software](#6.5-non-developer-identification-of-software)   
+	6.6. [Bibtex](#6.6-bibtex)   
+	6.7. [Text citation styles for software](#6.7-text-citation-styles-for-software)   
+	6.8. [Generating DOIs for "unversioned" software "packages"/"works"](#6.8-generating-dois-for-"unversioned"-software-"packages"/"works")    
+	6.9. [Discussion of specific tools](#6.9-discussion-of-specific-tools)   
+	6.10. [Out of scope items](#6.10-out-of-scope-items)    
+	6.11. [Registries that store software metadata](#6.11-registries-that-store-software-metadata)    
+	6.12. [Collections (e.g. frameworks, components, pipelines)](#6.12.-collections-(e.g.-frameworks,-components,-pipelines))   
+	6.13. [Identifiers for concepts vs for collections of versions](#6.12-identifiers-for-concepts-vs-for-collections-of-versions)    
 
 ## 1. Introduction
 
@@ -128,7 +128,7 @@ Software license terms are diverse, but only two general categories are needed t
 
 **Publication Status**: Published, Unpublished
 
-“Publication” is used here to refer to a formal process of archiving a copy of the software via an entity referred to here as a publisher, and creating a resolvable identifier for it. Merely putting the software on the web is not publishing. Software is “archived” once it has been deposited with appropriate metadata in a repository (a publisher) where the curators of that repository steward the software with long-term preservation as their goal (e.g., Zenodo, figshare, institutional archival repositories). Software that has not been archived and assigned a resolvable identifier, even if it has been made public, is considered “unpublished” for the purposes of this document. Unpublished software is often publicly available, but hosted by an organization that does not commit to long term preservation (e.g., GitHub).<sup>[1](footnotes)</sup>
+“Publication” is used here to refer to a formal process of archiving a copy of the software via an entity referred to here as a publisher, and creating a resolvable identifier for it. Merely putting the software on the web is not publishing. Software is “archived” once it has been deposited with appropriate metadata in a repository (a publisher) where the curators of that repository steward the software with long-term preservation as their goal (e.g., Zenodo, figshare, institutional archival repositories). Software that has not been archived and assigned a resolvable identifier, even if it has been made public, is considered “unpublished” for the purposes of this document. Unpublished software is often publicly available, but hosted by an organization that does not commit to long term preservation (e.g., GitHub).<sup>[1](#footnotes)</sup>
 
 Note that software is defined by each of these categories. Thus, in the terminology used here, we consider source code that is publicly available online to be _open source_ but _unpublished_, unless it and its associated metadata have been deposited and made available via an organization that provides long-term archiving of the software and metadata, and provides identifiers for software deposits.
 
@@ -180,7 +180,7 @@ While the idea of an identifier (such as a DOI) has always been possible to asso
     2. While some in life sciences might use an RRID to identify a software concept, this type of identifier is unknown outside life sciences, and is not intended to identify concepts alone, but rather to indicate the use of an executable form of software. The underlying SRC identifiers could be thought of as identifying a software concept, and the RRID metadata for digital resources has been [aligned](https://github.com/tgbugs/rrid-metadata#mapping-to-scr) with the DataCite relation types.
     3. Organizations who register DataCite DOIs can take advantage of the built-in support for codemeta. An example of this is [https://doi.org/10.5438/qeg0-3gm3](https://doi.org/10.5438/qeg0-3gm3), which points to [https://github.com/datacite/maremma](https://github.com/datacite/maremma). This DOI used the GitHub URL as metadata. When the DOI was created, the DataCite DOI registration service fetched the codemeta.json from the repository, converted the metadata into DataCite XML, and stored them.
 2. CSC - Perhaps this is a URL to the software, or a company product number. This could simply be a product name, such as SAS/STAT. A persistent identifier may be created or found in a registry such as [SciCrunch](https://scicrunch.org/) or [ASCL](http://ascl.net).
-3. OSUV - If the software has been archived by [Software Heritage](https://www.softwareheritage.org/) (they have archived a large amount of open source software and are working towards doing this for all open source software). Their [search and browse capability](https://archive.softwareheritage.org/browse/search/) can be used to find a version of the software to be cited. If the repository is not yet archived by Software Heritage, the [Save Code Now](https://archive.softwareheritage.org/browse/origin/save/) feature can be used to request that a repository be archived, using its URL.<sup>[2](footnotes)</sup> The permalinks button on the right to retrieve the persistent identifier (or the URL). For example, [https://github.com/applicationskeleton/Skeleton](https://github.com/applicationskeleton/Skeleton) as of commit 81c66c0db5c381dacc0841a4c16e0b3876b15b89 is [https://archive.softwareheritage.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/](https://archive.softwareheritage.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/) in Software Heritage's archive. Metaresolvers can also be used here, for example, this is [http://n2t.net/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/](http://n2t.net/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/) and [https://identifiers.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89](https://identifiers.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89) using the [n2t.net](https://n2t.net/) and [identifiers.org](https://identifiers.org/) metaresolvers. (Note that the identifiers.org version does not currently allow the origin to be added.)
+3. OSUV - If the software has been archived by [Software Heritage](https://www.softwareheritage.org/) (they have archived a large amount of open source software and are working towards doing this for all open source software). Their [search and browse capability](https://archive.softwareheritage.org/browse/search/) can be used to find a version of the software to be cited. If the repository is not yet archived by Software Heritage, the [Save Code Now](https://archive.softwareheritage.org/browse/origin/save/) feature can be used to request that a repository be archived, using its URL.<sup>[2](#footnotes)</sup> The permalinks button on the right to retrieve the persistent identifier (or the URL). For example, [https://github.com/applicationskeleton/Skeleton](https://github.com/applicationskeleton/Skeleton) as of commit 81c66c0db5c381dacc0841a4c16e0b3876b15b89 is [https://archive.softwareheritage.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/](https://archive.softwareheritage.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/) in Software Heritage's archive. Metaresolvers can also be used here, for example, this is [http://n2t.net/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/](http://n2t.net/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89;origin=https://github.com/applicationskeleton/Skeleton/) and [https://identifiers.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89](https://identifiers.org/swh:1:rev:81c66c0db5c381dacc0841a4c16e0b3876b15b89) using the [n2t.net](https://n2t.net/) and [identifiers.org](https://identifiers.org/) metaresolvers. (Note that the identifiers.org version does not currently allow the origin to be added.)
 
 
 4. CSUV - Perhaps this is a URL to the software, or a company product number. This could simply be a product name, such as SAS/STAT version 14.3. A persistent identifier may be created or found in a registry such as [SciCrunch](https://scicrunch.org/) or [ASCL](http://ascl.net).
@@ -205,7 +205,7 @@ This is also shown in Figure 2.
 
 ### 3.3 Storing metadata
 
-Metadata for software citation may be stored and made machine actionable in one or more of three places, or may not be stored at all. These are: 1) the metadata associated with an identifier (e.g., a DOI<sup>[3](footnotes)</sup>]), 2) in [CodeMeta.json](https://codemeta.github.io/) in a software repository alongside the code to be cited, and 3) in [CITATION.cff](https://citation-file-format.github.io) files in a software repository alongside the code to be cited. 
+Metadata for software citation may be stored and made machine actionable in one or more of three places, or may not be stored at all. These are: 1) the metadata associated with an identifier (e.g., a DOI<sup>[3](#footnotes)</sup>]), 2) in [CodeMeta.json](https://codemeta.github.io/) in a software repository alongside the code to be cited, and 3) in [CITATION.cff](https://citation-file-format.github.io) files in a software repository alongside the code to be cited. 
 
 Note that both CodeMeta and CFF can be used to provide citation-relevant metadata for a software and may both be present. The primary difference between CFF and CodeMeta is that CFF is a “front-end” format, and CodeMeta is a “back-end” format. See Section 3.3.1 for more details and a comparison. 
 
@@ -339,7 +339,7 @@ Also see Section 6.3.
 
 #### 3.3.1 CodeMeta and the Citation File Format (CFF) comparison
 
-[CodeMeta](https://doi.org/10.5063/schema/codemeta-2.0) is a machine-actionable, general-purpose exchange format for software metadata expressed in [JSON-LD format ](https://json-ld.org/)(i.e. JavaScript Object Notation for Linking Data). The use of JSON-LD in the CodeMeta specification means that the software metadata includes some structure (in JSON format) and can be extended with semantics via context files, which provide mappings of the elements to vocabularies. The provided context in CodeMeta relies mostly on the [schema.org](https://schema.org)<sup>[5](footnotes)</sup> vocabulary. CodeMeta provides a common vocabulary and crosswalks to software metadata concepts from 25 common software metadata dialects ([https://codemeta.github.io/crosswalk/](https://codemeta.github.io/crosswalk/)), which provides the ability to automate the conversion of software among these 25 dialects.
+[CodeMeta](https://doi.org/10.5063/schema/codemeta-2.0) is a machine-actionable, general-purpose exchange format for software metadata expressed in [JSON-LD format ](https://json-ld.org/)(i.e. JavaScript Object Notation for Linking Data). The use of JSON-LD in the CodeMeta specification means that the software metadata includes some structure (in JSON format) and can be extended with semantics via context files, which provide mappings of the elements to vocabularies. The provided context in CodeMeta relies mostly on the [schema.org](https://schema.org)<sup>[5](#footnotes)</sup> vocabulary. CodeMeta provides a common vocabulary and crosswalks to software metadata concepts from 25 common software metadata dialects ([https://codemeta.github.io/crosswalk/](https://codemeta.github.io/crosswalk/)), which provides the ability to automate the conversion of software among these 25 dialects.
 
 The [Citation File Format (CFF)](https://doi.org/10.5281/zenodo.1003149) is a machine-actionable, human-readable and -writable metadata format based on the Software Citation Principles. CFF relies on the [YAML format](http://www.yaml.org/spec/1.2/spec.html) for representing the citation metadata, which is a superset of JSON (i.e., JavaScript Object Notation). It requires at least the minimal set of information for a software to conform to the Software Citation Principles, and allows for scoped references, e.g., for references only relevant for a part of the complete source code of a software, or references that are relevant only when the software is run with a specific configuration.
 
