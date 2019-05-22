@@ -6,7 +6,9 @@ Version history:
 
 27 August 2018 - started
 
-20 May 2019 - version 1 complete
+20 May 2019 - version 1 complete - please cite as:
+Daniel S. Katz, Daina Bouquin, Neil P. Chue Hong, Jessica Hausman, Catherine Jones, Daniel Chivvis, Tim Clark, Mercè Crosas, Stephan Druskat, Martin Fenner, Tom Gillespie, Alejandra Gonzalez-Beltran, Morane Gruenpeter, Ted Habermann, Robert Haines, Melissa Harrison, Edwin Henneken, Lorraine Hwang, Matthew B. Jones, Alastair A. Kelly, David N. Kennedy, Katrin Leinweber, Fernando Rios, Carly B. Robinson, Ilian Todorov, Mingfang Wu, Qian Zhang, "Software Citation Implementation Challenges", arXiv:1905.08674v1 [cs.CY], 2019. http://arxiv.org/abs/1905.08674v1
+
 
 **Table of Contents:**
 1. Introduction   
