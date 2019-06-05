@@ -57,7 +57,7 @@ focus on specific topics, e.g. handling software citations in publishers systems
 
 In addition we will organize sessions in appropriate conferences, e.g.
 [WSSSPE5](http://wssspe.researchcomputing.org.uk/) (September 2017 Manchester and
-October 2017 Auckland) and [Force2017](https://www.force11.org/meetings/force2017)
+October 2017 Auckland) and [FORCE2017](https://www.force11.org/meetings/force2017)
 (October 2017 Berlin). The goal of these sessions is to inform the wider community
 about the work of the group, and to collect feedback.
 
@@ -101,6 +101,8 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
   version of the Computational Model Library is currently [under development](https://github.com/comses/core.comses.net),
   applying principles from this working group and serving as an example implementation of a citable code archive.
 - [Software Heritage](https://www.softwareheritage.org/)
+- [ESIP Software and Services_Citation_Guidelines_and_Examples](https://esip.figshare.com/articles/Software_and_Services_Citation_Guidelines_and_Examples/7640426)
+
 
 
 ## Potential early adopter groups
