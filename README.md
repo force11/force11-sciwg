@@ -41,7 +41,7 @@ Monthly virtual meetings are generally held at 06:00 PDT / 07:00 MDT / 08:00 CDT
 Meeting agendas and minutes can be found at: https://github.com/force11/force11-sciwg/tree/master/meetings
 
 We use Zoom to run these meetings.
-- [Join from PC, Mac, Linux, iOS or Android](https://zoom.us/j/268702722)
+- [Join from PC, Mac, Linux, iOS or Android](https://zoom.us/j/826409840)
 - Join by telephone: [full list of dial-in numbers](https://zoom.us/zoomconference)
    - Australia: +61 (0) 2 8015 2088
    - Canada: +1 647 558 0588
@@ -49,11 +49,23 @@ We use Zoom to run these meetings.
    - Germany: +49 (0) 30 3080 6188
    - UK: +44 (0) 20 3695 0088
    - USA: +1 408 740 3766 or +1 646 876 9923 or +1 669 900 6833
-- Meeting ID: 268 702 722
+- Meeting ID: 826 409 840
 
-We will organize in-person workshops either co-located with other events, or where
-we have obtained funding to organize workshops. These in-person workshops will
-focus on specific topics, e.g. handling software citations in publishers systems.
+### Taskforce Meetings
+
+There are also regular calls for task forces spun out of the SCI WG.
+
+At present, these are:
+ - Software Citation Guidance Task Force meets virtually on the third Wednesday of the month, at 15:00 UTC / 16:00 BST via [Zoom](https://zoom.us/j/585238617?pwd=Z2MvaFpITFZwL0d5dXc3aUdsWXVpdz09) (contact Neil Chue Hong for more details)
+ - Software Citation Repositories Task Force meets virtually on the second Thursday of the month, at 15:00 UTC and 22:00 UTC (contact Alice Allen to be added to reminders calls)
+
+The CodeMeta Task Force will provide details once it starts up.
+
+### In-person Meetings
+
+We also organize in-person workshops either co-located with other events, or where
+we have obtained funding to organize workshops. These in-person workshops focus on 
+specific topics, e.g. handling software citations in publishers systems.
 
 In addition we will organize sessions in appropriate conferences, e.g.
 [WSSSPE5](http://wssspe.researchcomputing.org.uk/) (September 2017 Manchester and
