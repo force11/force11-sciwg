@@ -56,7 +56,7 @@ We use Zoom to run these meetings.
 There are also regular calls for task forces spun out of the SCI WG.
 
 At present, these are:
- - Software Citation Guidance Task Force meets virtually on the third Wednesday of the month, at 15:00 UTC / 16:00 BST via [Zoom](https://zoom.us/j/585238617?pwd=Z2MvaFpITFZwL0d5dXc3aUdsWXVpdz09) (contact Neil Chue Hong for more details)
+ - Software Citation Guidance Task Force meets virtually on the third Wednesday of the month, at 15:00 UTC / 16:00 BST via [Zoom](https://zoom.us/j/585238617) (contact Neil Chue Hong for more details)
  - Software Citation Repositories Task Force meets virtually on the second Thursday of the month, at 15:00 UTC and 22:00 UTC (contact Alice Allen to be added to reminders calls)
 
 The CodeMeta Task Force will provide details once it starts up.
