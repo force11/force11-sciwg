@@ -67,10 +67,11 @@ We also organize in-person workshops either co-located with other events, or whe
 we have obtained funding to organize workshops. These in-person workshops focus on 
 specific topics, e.g. handling software citations in publishers systems.
 
-In addition we will organize sessions in appropriate conferences, e.g.
+In addition we have also organized sessions in appropriate conferences, e.g.
 [WSSSPE5](http://wssspe.researchcomputing.org.uk/) (September 2017 Manchester and
-October 2017 Auckland) and [FORCE2017](https://www.force11.org/meetings/force2017)
-(October 2017 Berlin). The goal of these sessions is to inform the wider community
+October 2017 Auckland), [FORCE2017](https://www.force11.org/meetings/force2017)
+(October 2017 Berlin), [FORCE2018](https://www.force11.org/meetings/force2018).
+The goal of these sessions is to inform the wider community
 about the work of the group, and to collect feedback.
 
 ## Timeline
