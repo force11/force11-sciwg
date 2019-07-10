@@ -57,7 +57,9 @@ There are also regular calls for task forces spun out of the SCI WG.
 
 At present, these are:
  - Software Citation Guidance Task Force meets virtually on the third Wednesday of the month, at 15:00 UTC / 16:00 BST via [Zoom](https://zoom.us/j/585238617) (contact Neil Chue Hong for more details)
- - Software Citation Repositories Task Force meets virtually on the second Thursday of the month, at 15:00 UTC and 22:00 UTC (contact Alice Allen to be added to reminders calls)
+ - The Best Practices for Software Registries Task Force brings together domain software registry and repository managers and editors — those who can implement changes on their registries — to develop a list of best practices for such services through discussions of how we manage, edit, maintain, and market our resources.
+   - This group meets virtually on the second Thursday of the month, at 15:00 UTC and 22:00 UTC (contact Alice Allen to be added to reminders calls)
+
 
 The CodeMeta Task Force will provide details once it starts up.
 
