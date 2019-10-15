@@ -38,3 +38,64 @@ Software citation is vital in the acknowledgment of the crucial role of software
 The scholarly communications system that underpins research relies on accurate citations to ensure research integrity, give appropriate credit and show dependencies with other works. As one step towards reproducing a computational procedure, researchers need to be able to access all inputs to the procedure including the specific version of software packages used to produce the original results. Research software should be as open as possible to enable traceability and reproducibility of research results.
 
 Members of the FORCE11 community, representing authors, developers, researchers, publishers and funders, have published the Software Citation Guidelines [1] to encourage broad adoption of a consistent policy for software citation across disciplines and venues. This checklist aims to provide guidance to make it easier to implement these principles as a developer.
+
+### What is an appropriate license?
+
+Open source license guidance is readily available. Choose a license that meets your needs, and that of your community of users.
+
+### What are appropriate metadata formats?
+
+The CodeMeta.json format captures software metadata, and is understood by a growing number of digital repositories, It is also easy to convert this to many common metadata schema used by software repositories.
+
+The Citation File Format (CFF) is a human- and machine-readable file format in YAML 1.2 which provides citation metadata for software. 
+
+Your community may already have a recommended metadata format for software metadata.
+
+### How do I give a clear version number?
+
+We recommend using semantic versioning.
+
+### How do I procure a persistent identifier for my software release?
+
+The easiest way of getting a persistent identifier is to deposit your source code in a digital repository which accepts software and issues Digital Object Identifiers (DOIs). Zenodo's integration with GitHub makes this easier to do automatically, but you can also manually deposit it into a reepository.
+
+### Where should I add my recommended citation to the documentation for my software?
+
+We recommend placing your recommended citation in your README file or a separate CITATION file. This should be done using the standard citation style for your community.
+
+#### Example from astronomy, with text in the README file asking people to cite both the package and a paper
+
+Software citation:
+> Angeline Burrell, Christer van der Meeren, & Karl M. Laundal. (2019, September 19). aburrell/aacgmv2: Version 2.5.2 (Version 2.5.2). Zenodo. http://doi.org/10.5281/zenodo.3451419
+
+Recommended citation from the README file:
+> When referencing this package, please cite both the package DOI (10.5281/zenodo.3451419) and the AACGM-v2 journal article:
+>
+> Shepherd, S. G. (2014), Altitude‐adjusted corrected geomagnetic coordinates: Definition and functional approximations, Journal of Geophysical Research: Space Physics, 119, 7501–7521, doi:10.1002/2014JA020264.
+
+#### Example from mathematics, providing people with a BibTeX snippet in a CITATION file
+
+Software citation:
+> Vince Knight, & Ria Baldevia. (2018, January 31). drvinceknight/Nashpy: v0.0.13 (Version v0.0.13). Zenodo. http://doi.org/10.5281/zenodo.1163694
+
+Here is how this project has put the citation as a BibTeX snippet in a CITATION file: https://github.com/drvinceknight/Nashpy/blob/v0.0.13/CITATION.md
+
+> Please use the following to cite the latest version of the Nashpy library::
+> 
+> @misc{axelrodproject,
+>  author       = {{ {The Nashpy project developers} }}
+>  title        = {Nashpy: <RELEASE TITLE>},
+>  month        = <MONTH>,
+>  year         = <YEAR>,
+>  doi          = {<DOI INFORMATION>},
+>  url          = {http://dx.doi.org/10.5281/zenodo.<DOI NUMBER>}
+> }
+>
+> To check the details (RELEASE TITLE, DOI INFORMATION and DOI NUMBER) please view the Zenodo page for the project. 
+
+### How should I determine authorship?
+
+Determining authorship is still best done by the project, considering which people have contributed to a release, and may change with each release.
+
+
+
