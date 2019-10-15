@@ -35,6 +35,8 @@ Software citation is vital in the acknowledgment of the crucial role of software
 
 The scholarly communications system that underpins research relies on accurate citations to ensure research integrity, give appropriate credit and show dependencies with other works. As one step towards reproducing a computational procedure, researchers need to be able to access all inputs to the procedure including the specific version of software packages used to produce the original results. Research software should be as open as possible to enable traceability and reproducibility of research results.
 
+Members of the FORCE11 community, representing authors, developers, researchers, publishers and funders, have published the Software Citation Guidelines [1] to encourage broad adoption of a consistent policy for software citation across disciplines and venues. This checklist aims to provide guidance to make it easier to implement these principles as an author.
+
 ### What software should I cite?
 
 You should cite software (see Appendix 1: Software Terminology) that has a significant impact on the research outcome presented in your work, or on the way the research has been conducted. If the research you are presenting is not repeatable without a piece of software, then you should cite the software. Note that the license or copyright of the software has no bearing on whether you should cite it.
@@ -68,15 +70,64 @@ To identify what citation should be used (i.e. whether it is a specific piece of
 
 If you are the author of the software, you should follow this guidance to generate a suitable citation for your software, and you should put your citation in your software's documentation.
 
+## Examples
+
+### Example from APA documentation [2]
+
+In text citation:
+
+> “We used the Obscure Reference Generator (Version 2.1; Esolang, 2014) and Version 1.0 of Customized Synergy (2014) to complete our work."
+
+Example reference:
+
+> Esolang, A. N. (2014). Obscure Reference Generator [Computer software]. Washington, DC: E & K Press.
+
+### Example from astronomy - APA style [3]
+
+In text citation:
+
+> The scripts and data used to perform the analysis and generate this manuscript are available on GitHub<sup>2</sup> and archived in Zenodo (Cruz et al. 2019).
+
+Example footnote:
+
+> 2. Supplementary materials: http://github.com/kelle/eudoxus-supp
+
+Example reference:
+
+> Cruz, K. et al. (2014), “Eudoxus”, v1.0, Zenodo, doi.10.5281/zenodo.12345
+
+### Example from geosciences - APA style [4]
+
+Example references:
+
+> Xu, C., & Christoffersen, B. (2017). The Functionally-Assembled Terrestrial Ecosystem Simulator. Version 1. Los Alamos National Laboratory (LANL), Los Alamos, NM (UnitedStates). https://doi.org/10.11578/dc.20171025.1962​. Accessed 2018-07-01.McGibbney, 
+
+> L.J., Reddy, O., Jarif, I., Spahn, N., & Goodman, A. (2018). nasa/podaacpy:Podaacpy v2.2.1. Zenodo. https://doi.org/10.5281/zenodo.1751973.
+
+### Example from mathematics - APA style [5]
+
+> Voevodsky, Vladimir and Ahrens, Benedikt and Grayson, Daniel and others. UniMath — a
+computer-checked library of univalent mathematics. https://github.com/UniMath/UniMath [accessed 2018-04-27]
+
+> Eigen Project. (2017). Eigen [software] version 3.3.4 Available from https://bitbucket.org/eigen/eigen/ [accessed 2018-04-27]
+
+> Vince Knight, & Ria Baldevia. (2018, January 31). drvinceknight/Nashpy: v0.0.13 (Version v0.0.13). Zenodo. http://doi.org/10.5281/zenodo.1163694
+
+### Additional guidance
+
+Additional guidance is available from https://research-software.org/citation/researchers/ [6]
+
 ## References
 
-  1. Druskat, Stephan. (2018). Research software citation for researchers. https://research-software.org/citation/researchers/
+  1. Smith, Arfon M., Katz, Daniel S., Niemeyer, Kyle E., & FORCE11 Software Citation Working Group. (2016). Software citation principles. PeerJ Computer Science, 2, e86. https://doi.org/10.7717/peerj-cs.86
   2. McAdoo, Timothy. (2015). How to Cite Software in APA Style. https://blog.apastyle.org/apastyle/2015/01/how-to-cite-software-in-apa-style.html 
-  3. Smith, Arfon M., Katz, Daniel S., Niemeyer, Kyle E., & FORCE11 Software Citation Working Group. (2016). Software citation principles. PeerJ Computer Science, 2, e86. https://doi.org/10.7717/peerj-cs.86
+  3. Daina Bouquin, Gus Muench, Kelle Cruz, Daniel Chivvis, Edwin Henneken (2019): Citing Astronomy Software: Inline Text Examples. https://www.astrobetter.com/blog/2019/07/01/citing-astronomy-software-inline-text-examples/
   4. Hausman, Jessica; Stall, Shelley; Gallagher, James; Wu, Mingfang (2019): Software and Services Citation Guidelines and Examples. Version 1. ESIP. Paper. https://doi.org/10.6084/m9.figshare.7640426
-  5. G. Knepley, Matthew; Brown, Jed; Curfman McInnes, Lois; Smith, Barry (2013): Accurately Citing Software and Algorithms Used in Publications. figshare. Paper. https://doi.org/10.6084/m9.figshare.785731.v1
-  6. Daina Bouquin, Gus Muench, Kelle Cruz, Daniel Chivvis, Edwin Henneken (2019): Citing Astronomy Software: Inline Text Examples. https://www.astrobetter.com/blog/2019/07/01/citing-astronomy-software-inline-text-examples/
-  7. https://blog.apastyle.org/apastyle/2015/01/how-to-cite-software-in-apa-style.html
+  5. Katz, DS & Chue Hong, N 2018, Software Citation in Theory and Practice. in Mathematical Software –
+ICMS 2018: 6th International Conference, South Bend, IN, USA, July 24-27, 2018, Proceedings. Lecture
+Notes in Computer Science, vol. 10931, Springer, Cham, pp. 289-296, 6th International Congress on
+Mathematical Software, Notre Dame, United States, 24/07/18. https://doi.org/10.1007/978-3-319-96418-8
+  6. Druskat, Stephan. (2018). Research software citation for researchers. https://research-software.org/citation/researchers/
 
 
 ## Appendices
