@@ -27,3 +27,14 @@ There are other things that we consider as good practice for research software d
 
 This guidance is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. You are free to share and adapt this material for any purpose, including commercially, as long as you give [appropriate credit](https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart), provide a [link to the license](https://creativecommons.org/licenses/by-sa/4.0/), indicate if [changes were made](https://wiki.creativecommons.org/wiki/License_Versions#Modifications_and_adaptations_must_be_marked_as_such), and you distribute your contributions under the same license as the original. More information: https://creativecommons.org/licenses/by-sa/4.0/
 
+## Additional Guidance on Software Citation for Developers
+
+### Why is software citation important?
+
+Software is part of the research process, across a wide range of disciplines and domains, and it is therefore important that pieces of software that have contributed to the research are cited. 
+
+Software citation is vital in the acknowledgment of the crucial role of software in research, as it allows researchers publishing software rather than papers to participate in the academic credit system.
+
+The scholarly communications system that underpins research relies on accurate citations to ensure research integrity, give appropriate credit and show dependencies with other works. As one step towards reproducing a computational procedure, researchers need to be able to access all inputs to the procedure including the specific version of software packages used to produce the original results. Research software should be as open as possible to enable traceability and reproducibility of research results.
+
+Members of the FORCE11 community, representing authors, developers, researchers, publishers and funders, have published the Software Citation Guidelines [1] to encourage broad adoption of a consistent policy for software citation across disciplines and venues. This checklist aims to provide guidance to make it easier to implement these principles as a developer.
