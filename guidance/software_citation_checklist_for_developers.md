@@ -41,23 +41,23 @@ Members of the FORCE11 community, representing authors, developers, researchers,
 
 ### What is an appropriate license?
 
-Open source license guidance is readily available. Choose a license that meets your needs, and that of your community of users.
+Open source license guidance is readily available [2]. Choose a license that meets your needs, and that of your community of users.
 
 ### What are appropriate metadata formats?
 
-The CodeMeta.json format captures software metadata, and is understood by a growing number of digital repositories, It is also easy to convert this to many common metadata schema used by software repositories.
+The CodeMeta.json format [3] captures software metadata, and is understood by a growing number of digital repositories, It is also easy to convert this to many common metadata schema used by software repositories.
 
-The Citation File Format (CFF) is a human- and machine-readable file format in YAML 1.2 which provides citation metadata for software. 
+The Citation File Format (CFF) [4] is a human- and machine-readable file format in YAML 1.2 which provides citation metadata for software. 
 
 Your community may already have a recommended metadata format for software metadata.
 
 ### How do I give a clear version number?
 
-We recommend using semantic versioning.
+We recommend using semantic versioning [5].
 
 ### How do I procure a persistent identifier for my software release?
 
-The easiest way of getting a persistent identifier is to deposit your source code in a digital repository which accepts software and issues Digital Object Identifiers (DOIs). Zenodo's integration with GitHub makes this easier to do automatically, but you can also manually deposit it into a reepository.
+The easiest way of getting a persistent identifier is to deposit your source code in a digital repository which accepts software and issues Digital Object Identifiers (DOIs). Zenodo's integration with GitHub [6] makes this easier to do automatically, but you can also manually deposit it into a repository.
 
 ### Where should I add my recommended citation to the documentation for my software?
 
@@ -96,6 +96,20 @@ Here is how this project has put the citation as a BibTeX snippet in a CITATION 
 ### How should I determine authorship?
 
 Determining authorship is still best done by the project, considering which people have contributed to a release, and may change with each release.
+
+### Additional guidance
+
+Additional guidance is available from https://research-software.org/citation/developers [7]
+
+## References
+
+  1. Smith, Arfon M., Katz, Daniel S., Niemeyer, Kyle E., & FORCE11 Software Citation Working Group. (2016). Software citation principles. PeerJ Computer Science, 2, e86. https://doi.org/10.7717/peerj-cs.86
+  2. Choose a License: https://choosealicense.com/
+  3. Matthew B. Jones, Carl Boettiger, Abby Cabunoc Mayes, Arfon Smith, Peter Slaughter, Kyle Niemeyer, Yolanda Gil, Martin Fenner, Krzysztof Nowak, Mark Hahnel, Luke Coy, Alice Allen, Mercè Crosas, Ashley Sands, Neil Chue Hong, Patricia Cruse, Daniel S. Katz, Carole Goble. 2017. CodeMeta: an exchange schema for software metadata. Version 2.0. KNB Data Repository. doi:10.5063/schema/codemeta-2.0
+  4. Druskat, Stephan, Chue Hong, Neil, Haines, Robert, & Baker, James. (2018, August 29). Citation File Format (CFF) - Specifications (Version 1.0.3-3). Zenodo. http://doi.org/10.5281/zenodo.1405679
+  5. Preston-Werner, Tom. (2013). Semantic Versioning 2.0.0 https://semver.org/
+  6. Making Your Code Citable https://guides.github.com/activities/citable-code/
+  7. Druskat, Stephan. (2018). Research software citation for software developers. https://research-software.org/citation/developers
 
 
 
