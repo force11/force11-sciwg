@@ -10,7 +10,7 @@ The mailing list for group members is [softwarecitationimplementationwg@force11.
 Use the group [GitHub repository](https://github.com/force11/force11-sciwg) for
 documentation and discussion.
 
-The group started in May 2017 and will wrap up work in December 2018.
+The group started in May 2017 and was originally planning to wrap up work in December 2018 - we have extended the group to enable new task forces to complete.
 
 ## Description
 
@@ -59,9 +59,7 @@ At present, these are:
  - Software Citation Guidance Task Force meets virtually on the third Wednesday of the month, at 15:00 UTC / 16:00 BST via [Zoom](https://zoom.us/j/585238617) (contact Neil Chue Hong for more details)
  - The Best Practices for Software Registries Task Force brings together domain software registry and repository managers and editors — those who can implement changes on their registries — to develop a list of best practices for such services through discussions of how we manage, edit, maintain, and market our resources.
    - This group meets virtually on the second Thursday of the month, at 15:00 UTC and 22:00 UTC (contact Alice Allen to be added to reminders calls)
-
-
-The CodeMeta Task Force will provide details once it starts up.
+ - CodeMeta Task Force meets virtually on the last Wednesday of the month, at 14:00 GMT via [Zoom](https://zoom.us/j/978215790) (contact Martin Fenner for more details) 
 
 ### In-person Meetings
 
@@ -72,7 +70,7 @@ specific topics, e.g. handling software citations in publishers systems.
 In addition we have also organized sessions in appropriate conferences, e.g.
 [WSSSPE5](http://wssspe.researchcomputing.org.uk/) (September 2017 Manchester and
 October 2017 Auckland), [FORCE2017](https://www.force11.org/meetings/force2017)
-(October 2017 Berlin), [FORCE2018](https://www.force11.org/meetings/force2018).
+(October 2017 Berlin), [FORCE2018](https://www.force11.org/meetings/force2018), [FORCE2019](https://www.force11.org/meetings/force2019).
 The goal of these sessions is to inform the wider community
 about the work of the group, and to collect feedback.
 
