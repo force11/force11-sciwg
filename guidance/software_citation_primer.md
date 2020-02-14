@@ -58,4 +58,4 @@ It was initially drafted by Neil Chue Hong, and Daniel S. Katz provided feedback
   - DataCite. DataCite - Cite Your Data. https://datacite.org/cite-your-data.html
   - Smith AM, Katz DS, Niemeyer KE, FORCE11 Software Citation Working Group.
 (2016) Software Citation Principles. PeerJ Computer Science 2:e86.
-DOI: 10.7717/peerj-cs.86
+DOI: [10.7717/peerj-cs.86](https://doi.org/10.7717/peerj-cs.86)
