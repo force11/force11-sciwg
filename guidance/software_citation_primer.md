@@ -16,6 +16,11 @@ FORCE11 has been developing guidance for software citation. The Software Citatio
 
 We recognise that the challenges associated with software deposit and publication vary across disciplines, and we encourage research communities to develop citation systems that work well for them. We also recognise that the citation style formats used vary between disciplines and journals.
 
+```diff
++ comment from Telli Faez: if a software paper exists, should cite it; if not, do the following
++ response from Dan: goal is to cite software itself; if a software paper exists, can cite it too
+```
+
 Our recommended format for software citation is to ensure the following information is provided as part of the reference:
 
   - Creator: the authors or project that developed the software
@@ -32,11 +37,22 @@ It may also be desirable to include information about three optional properties 
 
 ### Software Citation Examples
 
-APA style:
+APA style: 
+```diff
++ comment from Matt Cannon: FT&F production team say APA reference style was updated at the end of
++ 2019, and we should update the examples to be correct in the latest version of APA style. Looking
++ at the information in the new guide they do include a section on how to cite software (10.10).
+```
 
  - Amet Corp. _Ametcon [Computer software]_. Retrieved from http://ametcon.com
  - L1psum Project. (2016). _L1psum_. Retrieved from: https://github.com/l1psum/l1psum
  - Researcher, A. (2019). _Dolorsit_, v1.0. Zenodo, doi:10.5281/zenodo.O12345
+
+```diff
++ comment from Matt Cannon: FT&F production team suggested that as the Chicago reference style
++ offers “suggestions” rather than “rules”, they thought adopting a different style might be best
++ if we want to give very clear examples.
+```
 
 Chicago style:
  - Amet Corp. "Ametcon." http://ametcon.com
