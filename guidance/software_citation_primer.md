@@ -1,4 +1,4 @@
-_Comments and suggestions on this document can be added to the Google Doc version here: https://docs.google.com/document/d/1Nsn2IjbDjf5mOd4jLK7h0kEsKzqERGFPDoLXyCJSRlM/edit or via a GitHub issue_
+_Comments and suggestions on this document can be added to the Google Doc version here: https://docs.google.com/document/d/1Puj13cdJXm5RO4ycWJz8f7Eo-nKwHA4NIKQ-jSgaTVU/edit#heading=h.44hhurazoaq6 or via a GitHub issue_
 
 # Why is it so important to cite software?
 
