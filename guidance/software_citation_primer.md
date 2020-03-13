@@ -1,3 +1,5 @@
+_Comments and suggestions on this document can be added to the Google Doc version here: https://docs.google.com/document/d/1Nsn2IjbDjf5mOd4jLK7h0kEsKzqERGFPDoLXyCJSRlM/edit or via a GitHub issue_
+
 # Why is it so important to cite software?
 
 Books and journal articles have long benefited from an infrastructure that makes them easy to cite, a key element in the process of research and academic discourse. We believe that you should cite software (including code, scripts, notebooks and libraries) in the same way that you cite other sources of information, such as articles and books.
