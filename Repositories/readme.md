@@ -18,8 +18,7 @@ This Task Force of the FORCE11 Software Citation Implementation Working Group is
 
 - **Scope Statement**
   - Astrophysics Source Code Library. (n.d.). Editorial policy. https://ascl.net/wordpress/submissions/editiorial-policy/
-  - bio.tools. (n.d.). 
-  - Curators Guide. https://biotools.readthedocs.io/en/latest/curators_guide.html
+  - bio.tools. (n.d.). Curators Guide. https://biotools.readthedocs.io/en/latest/curators_guide.html
   - Caltech Library. (2017). Terms of Deposit. https://data.caltech.edu/terms
   - Caltech Library. (2019). CaltechDATA FAQ. Caltech Library. https://www.library.caltech.edu/caltechdata/faq
   - Computational Infrastructure for Geodynamics. (n.d.). Code Donation. https://geodynamics.org/cig/dev/code-donation/
