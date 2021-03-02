@@ -2,6 +2,8 @@
 
 This Task Force of the FORCE11 Software Citation Implementation Working Group is composed of managers and editors of scientific software registries and repositories. The Task Force identified nine best practices for software registries; these are listed below. Also listed below are policy examples as implemented by different registries or similar services.
 
+More information on these practices is available in [Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117).
+
 ### Best practices
 
 - Provide a public scope statement
