@@ -136,6 +136,7 @@ Guidance for journals:
   - GitHub (2016): [Making Your Code Citable](https://guides.github.com/activities/citable-code) _GitHub Guides_ <https://guides.github.com/activities/citable-code>
 - [Research Object RO-Crate](https://w3id.org/ro/crate) (see [Software used to create files](https://www.researchobject.org/ro-crate/1.1/provenance.html#software-used-to-create-files) and [Workflows & Scripts](https://www.researchobject.org/ro-crate/1.1/workflows.html))
 - FAIR for Research Software
+  - [RDA/FORCE11/ReSA FAIR for Research Software (FAIR4RS) group](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)
   - A.-L. Lamprecht, L. Garcia, M. Kuzak, C. Martinez, R. Arcila, E. M. Del Pico, V. Dominguez Del Angel, et al. (2020): [Towards FAIR Principles for Research Software](https://doi.org/10.3233/ds-190026). _Data Science_ **3**(1), pp 37–59. <https://doi.org/10.3233/ds-190026>
   - C. Goble, S. Cohen-Boulakia, S. Soiland-Reyes, D. Garijo, Y. Gil, M. R. Crusoe, K. Peters, D. Schober (2020): [FAIR Computational Workflows](https://doi.org/10.1162/dint_a_00033). _Data Intelligence_ **2**(1), pp 108–121. <https://doi.org/10.1162/dint_a_00033>
   - W. Hasselbring, L. Carr, S. Hettrick, H. Packer and T. Tiropanis (2020): [From FAIR research data toward FAIR and open research software](https://doi.org/10.1515/itit-2019-0040) <https://doi.org/10.1515/itit-2019-0040>
