@@ -10,7 +10,7 @@ The mailing list for group members is [softwarecitationimplementationwg@force11.
 Use the group [GitHub repository](https://github.com/force11/force11-sciwg) for
 documentation and discussion.
 
-The group started in May 2017 and was originally planning to wrap up work in December 2018 - we have extended the group to enable new task forces to complete.
+The group started in May 2017 and was originally planning to wrap up work in December 2018 - we have extended the group to enable new task forces to complete and to remain a community coordination point.
 
 ## Description
 
