@@ -41,7 +41,7 @@ Monthly virtual meetings are generally held at 06:00 PDT / 07:00 MDT / 08:00 CDT
 Meeting agendas and minutes can be found at: https://github.com/force11/force11-sciwg/tree/master/meetings
 
 We use Zoom to run these meetings.
-- [Join from PC, Mac, Linux, iOS or Android](https://zoom.us/j/826409840)
+- [Join from PC, Mac, Linux, iOS or Android](https://zoom.us/j/826409840) (though note that a password is required; contact a chair for this)
 - Join by telephone: [full list of dial-in numbers](https://zoom.us/zoomconference)
    - Australia: +61 (0) 2 8015 2088
    - Canada: +1 647 558 0588
