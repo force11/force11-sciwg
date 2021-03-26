@@ -97,6 +97,23 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - Reference implementations for software versioning
 - File with citation metadata in bibtex or json format (e.g. codemeta) in code repository root
 
+## Products
+
+Software citation implementation challenges:
+- D. S. Katz, D. Bouquin, N. P. Chue Hong, J. Hausman, C. Jones, D. Chivvis, T. Clark, M. Crosas, S. Druskat, M. Fenner, T. Gillespie, A. Gonzalez-Beltran, M. Gruenpeter, T. Habermann, R. Haines, M. Harrison, E. Henneken, L. Hwang, M. B. Jones, A. A. Kelly, D. N. Kennedy, K. Leinweber, F. Rios, C. B. Robinson, I. Todorov, M. Wu, Q. Zhang, "[Software Citation Implementation Challenges](https://arxiv.org/abs/1905.08674)", [arXiv 1905.08674 [cs.CY]](https://arxiv.org/abs/1905.08674), 2019.
+
+Checklists for (paper) authors and (software) developers:
+- N. P. Chue Hong, A. Allen, A. Gonzalez-Beltran, A. de Waard, A. M. Smith, C. Robinson, C. Jones, D. Bouquin, D. S. Katz, D. Kennedy, G. Ryder, J. Hausman, L. Hwang, M. B. Jones, M. Harrison, M. Crosas, M. Wu, P. Löwe, R. Haines, S. Edmunds, S. Stall, S. Swaminathan, S. Druskat, T. Crick, T. Morrell, T. Pollard, “[Software Citation Checklist for Authors](https://doi.org/10.5281/zenodo.3479198),” Zenodo, 15-Oct-2019.  [https://doi.org/10.5281/zenodo.3479198](https://doi.org/10.5281/zenodo.3479198)
+ - N. P. Chue Hong, A. Allen, A. Gonzalez-Beltran, A. de Waard, A. M. Smith, C. Robinson, C. Jones, D. Bouquin, D. S. Katz, D. Kennedy, G. Ryder, J. Hausman, L. Hwang, M. B. Jones, M. Harrison, M. Crosas, M. Wu, P. Löwe, R. Haines, S. Edmunds, S. Stall, S. Swaminathan, S. Druskat, T. Crick, T. Morrell, T. Pollard, “[Software Citation Checklist for Developers](https://doi.org/10.5281/zenodo.3482768),” Zenodo, 15-Oct-2019.[https://doi.org/10.5281/zenodo.3482768](https://doi.org/10.5281/zenodo.3482768) 
+
+Best practice for software repositories and registries:
+- Task Force on Best Practices for Software Registries: A. Monteil, A. Gonzalez-Beltran, A. Ioannidis, A. Allen, A. Lee, A. Bandrowski, B. E. Wilson, B. Mecum, C. Fan Du, C. Robinson, D. Garijo, D. S. Katz, D. Long, G. Milliken, H. Ménager, J. Hausman, J. H. Spaaks, K. Fenlon, K. Vanderbilt, L. Hwang, L. Davis, M. Fenner, M. R. Crusoe, M. Hucka, M. Wu, N. Chue Hong, P. Teuben, S. Stall, S. Druskat, T. Carnevale, T. Morrell, "[Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117)," [arXiv 2012.13117 [cs.DL]](https://arxiv.org/abs/2012.13117), 2020.
+
+Guidance for journals:
+- D. S. Katz, N. P. Chue Hong, T. Clark, A. Muench, S. Stall, D. Bouquin, M. Cannon, S. Edmunds, T. Faez, P. Feeney, M. Fenner, M. Friedman, G. Grenier, M. Harrison, J. Heber, A. Leary, C. MacCallum, H. Murray, E. Pastrana, K. Perry, D. Schuster, M. Stockhause, J. Yeston, "[Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]](https://doi.org/10.12688/f1000research.26932.2)," F1000Research 9:1257, 2021. [https://doi.org/10.12688/f1000research.26932.2](https://doi.org/10.12688/f1000research.26932.2)
+- D. S. Katz, H. Murray, "[Guest Post — Citing Software in Scholarly Publishing to Improve Reproducibility, Reuse, and Credit](https://scholarlykitchen.sspnet.org/2021/01/21/guest-post-citing-software-in-scholarly-publishing-to-improve-reproducibility-reuse-and-credit/)," Scholarly Kitchen, 21-Jan-2021.
+- D. S. Katz, M. Gruenpeter, T. Honeyman, "[Taking a fresh look at FAIR for research software](https://doi.org/10.1016/j.patter.2021.100222)," Patterns v.2(3), 100222, March 12, 2021. [https://doi.org/10.1016/j.patter.2021.100222](https://doi.org/10.1016/j.patter.2021.100222)
+
 ## Related initiatives and projects
 
 - [Codemeta](http://codemeta.github.io/)
