@@ -132,6 +132,8 @@ Guidance for journals:
   applying principles from this working group and serving as an example implementation of a citable code archive.
 - [Software Heritage](https://www.softwareheritage.org/)
 - [ESIP Software and Services_Citation_Guidelines_and_Examples](https://esip.figshare.com/articles/Software_and_Services_Citation_Guidelines_and_Examples/7640426)
+- Making Your Code Citable:
+  - GitHub (2016): [Making Your Code Citable](https://guides.github.com/activities/citable-code) _GitHub Guides_ <https://guides.github.com/activities/citable-code>
 - [Research Object RO-Crate](https://w3id.org/ro/crate) (see [Software used to create files](https://www.researchobject.org/ro-crate/1.1/provenance.html#software-used-to-create-files) and [Workflows & Scripts](https://www.researchobject.org/ro-crate/1.1/workflows.html))
 - FAIR for Research Software
   - A.-L. Lamprecht, L. Garcia, M. Kuzak, C. Martinez, R. Arcila, E. M. Del Pico, V. Dominguez Del Angel, et al. (2020): [Towards FAIR Principles for Research Software](https://doi.org/10.3233/ds-190026). _Data Science_ **3**(1), pp 37–59. <https://doi.org/10.3233/ds-190026>
