@@ -138,7 +138,7 @@ Guidance for journals:
 - FAIR for Research Software
   - A.-L. Lamprecht, L. Garcia, M. Kuzak, C. Martinez, R. Arcila, E. M. Del Pico, V. Dominguez Del Angel, et al. (2020): [Towards FAIR Principles for Research Software](https://doi.org/10.3233/ds-190026). _Data Science_ **3**(1), pp 37–59. <https://doi.org/10.3233/ds-190026>
   - C. Goble, S. Cohen-Boulakia, S. Soiland-Reyes, D. Garijo, Y. Gil, M. R. Crusoe, K. Peters, D. Schober (2020): [FAIR Computational Workflows](https://doi.org/10.1162/dint_a_00033). _Data Intelligence_ **2**(1), pp 108–121. <https://doi.org/10.1162/dint_a_00033>
-  - W. Hasselbring, L. Carr, S. Hettrick, He. Packer and T. Tiropanis (2020): [From FAIR research data toward FAIR and open research software](https://doi.org/10.1515/itit-2019-0040) <https://doi.org/10.1515/itit-2019-0040>
+  - W. Hasselbring, L. Carr, S. Hettrick, H. Packer and T. Tiropanis (2020): [From FAIR research data toward FAIR and open research software](https://doi.org/10.1515/itit-2019-0040) <https://doi.org/10.1515/itit-2019-0040>
   - D. S. Katz, M. Gruenpeter, T. Honeyman, L. Hwang, M. D. Wilkinson, V. Sochat, H. Anzt, C. Goble, for FAIR4RS Subgroup 1, "[A Fresh Look at FAIR for Research Software](https://arxiv.org/abs/2101.10883)," [arXiv:2101.10883 [cs.SE]](https://arxiv.org/abs/2101.10883), 2021.
   - D. S. Katz, M. Gruenpeter, T. Honeyman, "[Taking a fresh look at FAIR for research software](https://doi.org/10.1016/j.patter.2021.100222)," Patterns v.2(3), 100222, March 12, 2021. [https://doi.org/10.1016/j.patter.2021.100222](https://doi.org/10.1016/j.patter.2021.100222)
 
