@@ -112,7 +112,6 @@ Best practice for software repositories and registries:
 Guidance for journals:
 - D. S. Katz, N. P. Chue Hong, T. Clark, A. Muench, S. Stall, D. Bouquin, M. Cannon, S. Edmunds, T. Faez, P. Feeney, M. Fenner, M. Friedman, G. Grenier, M. Harrison, J. Heber, A. Leary, C. MacCallum, H. Murray, E. Pastrana, K. Perry, D. Schuster, M. Stockhause, J. Yeston, "[Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]](https://doi.org/10.12688/f1000research.26932.2)," F1000Research 9:1257, 2021. [https://doi.org/10.12688/f1000research.26932.2](https://doi.org/10.12688/f1000research.26932.2)
 - D. S. Katz, H. Murray, "[Guest Post — Citing Software in Scholarly Publishing to Improve Reproducibility, Reuse, and Credit](https://scholarlykitchen.sspnet.org/2021/01/21/guest-post-citing-software-in-scholarly-publishing-to-improve-reproducibility-reuse-and-credit/)," Scholarly Kitchen, 21-Jan-2021.
-- D. S. Katz, M. Gruenpeter, T. Honeyman, "[Taking a fresh look at FAIR for research software](https://doi.org/10.1016/j.patter.2021.100222)," Patterns v.2(3), 100222, March 12, 2021. [https://doi.org/10.1016/j.patter.2021.100222](https://doi.org/10.1016/j.patter.2021.100222)
 
 ## Related initiatives and projects
 
@@ -134,6 +133,8 @@ Guidance for journals:
 - [Software Heritage](https://www.softwareheritage.org/)
 - [ESIP Software and Services_Citation_Guidelines_and_Examples](https://esip.figshare.com/articles/Software_and_Services_Citation_Guidelines_and_Examples/7640426)
 - [Research Object RO-Crate](https://w3id.org/ro/crate) (see [Software used to create files](https://www.researchobject.org/ro-crate/1.1/provenance.html#software-used-to-create-files) and [Workflows & Scripts](https://www.researchobject.org/ro-crate/1.1/workflows.html))
+- FAIR for Research Software
+  - D. S. Katz, M. Gruenpeter, T. Honeyman, "[Taking a fresh look at FAIR for research software](https://doi.org/10.1016/j.patter.2021.100222)," Patterns v.2(3), 100222, March 12, 2021. [https://doi.org/10.1016/j.patter.2021.100222](https://doi.org/10.1016/j.patter.2021.100222)
 
 
 ## Potential early adopter groups
