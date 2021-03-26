@@ -133,7 +133,7 @@ Guidance for journals:
   applying principles from this working group and serving as an example implementation of a citable code archive.
 - [Software Heritage](https://www.softwareheritage.org/)
 - [ESIP Software and Services_Citation_Guidelines_and_Examples](https://esip.figshare.com/articles/Software_and_Services_Citation_Guidelines_and_Examples/7640426)
-
+- [Research Object RO-Crate](https://w3id.org/ro/crate) (see [Software used to create files](https://www.researchobject.org/ro-crate/1.1/provenance.html#software-used-to-create-files) and [Workflows & Scripts](https://www.researchobject.org/ro-crate/1.1/workflows.html))
 
 
 ## Potential early adopter groups
