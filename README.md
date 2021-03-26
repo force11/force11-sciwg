@@ -97,7 +97,7 @@ We will use these as milestones in the [GitHub issue tracker](https://github.com
 - Reference implementations for software versioning
 - File with citation metadata in bibtex or json format (e.g. codemeta) in code repository root
 
-## Products
+## Group Products
 
 Software citation implementation challenges:
 - D. S. Katz, D. Bouquin, N. P. Chue Hong, J. Hausman, C. Jones, D. Chivvis, T. Clark, M. Crosas, S. Druskat, M. Fenner, T. Gillespie, A. Gonzalez-Beltran, M. Gruenpeter, T. Habermann, R. Haines, M. Harrison, E. Henneken, L. Hwang, M. B. Jones, A. A. Kelly, D. N. Kennedy, K. Leinweber, F. Rios, C. B. Robinson, I. Todorov, M. Wu, Q. Zhang, "[Software Citation Implementation Challenges](https://arxiv.org/abs/1905.08674)", [arXiv 1905.08674 [cs.CY]](https://arxiv.org/abs/1905.08674), 2019.
