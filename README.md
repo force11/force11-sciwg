@@ -116,6 +116,7 @@ Guidance for journals:
 ## Related initiatives and projects
 
 - [Codemeta](http://codemeta.github.io/)
+- [Citation File Format](https://citation-file-format.github.io/)
 - [Astrophysics Source Code Library](http://ascl.net/)
 - [SBGrid](https://sbgrid.org)
 - [swMATH](http://www.swmath.org)
