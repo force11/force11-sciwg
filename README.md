@@ -36,7 +36,7 @@ During this process, the principles may also be updated based on feedback from t
 
 ## Virtual and In-person Meetings
 
-Monthly virtual meetings are generally held at 06:00 PDT / 07:00 MDT / 08:00 CDT / 09:00 EDT / 13:00 UTC / 14:00 BST / 15:00 CEST / 16:00 EEST / 23:00 AEST on the first Tuesday of the month.
+Monthly virtual meetings are generally held at 06:00 PDT / 07:00 MDT / 08:00 CDT / 09:00 EDT / 13:00 UTC / 14:00 BST / 15:00 CEST / 16:00 EEST / 23:00 AEST alternating between the first Tuesday and first Thursday of the month.
 
 Meeting agendas and minutes can be found at: https://github.com/force11/force11-sciwg/tree/master/meetings
 
