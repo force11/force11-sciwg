@@ -112,6 +112,7 @@ Best practices for software repositories and registries:
 Guidance for journals:
 - D. S. Katz, N. P. Chue Hong, T. Clark, A. Muench, S. Stall, D. Bouquin, M. Cannon, S. Edmunds, T. Faez, P. Feeney, M. Fenner, M. Friedman, G. Grenier, M. Harrison, J. Heber, A. Leary, C. MacCallum, H. Murray, E. Pastrana, K. Perry, D. Schuster, M. Stockhause, J. Yeston, "[Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]](https://doi.org/10.12688/f1000research.26932.2)," F1000Research 9:1257, 2021. [https://doi.org/10.12688/f1000research.26932.2](https://doi.org/10.12688/f1000research.26932.2)
 - D. S. Katz, H. Murray, "[Guest Post — Citing Software in Scholarly Publishing to Improve Reproducibility, Reuse, and Credit](https://scholarlykitchen.sspnet.org/2021/01/21/guest-post-citing-software-in-scholarly-publishing-to-improve-reproducibility-reuse-and-credit/)," Scholarly Kitchen, 21-Jan-2021.
+- S. Stall, G. Bilder, M. Cannon, N. Chue Hong, S. Edmunds, C. C. Erdmann, M. Evans, R. Farmer, P. Feeney, M. Friedman, M. Giampoala, R. B. Hanson, M. Harrison, D. Karaiskos, D. S. Katz, V. Letizia, V. Lizzi, C. MacCallum, A. Muench, K. Perry, H. Ratner, U. Schindler, B. Sedora, M. Stockhause, R. Townsend, J. Yeston, T. Clark, "[Journal Production Guidance for Software and Data Citations](https://doi.org/10.1038/s41597-023-02491-7)," Scientific Data v.10, 656, 2023. [https://doi.org/10.1038/s41597-023-02491-7](https://doi.org/10.1038/s41597-023-02491-7)
 
 ## Related initiatives and projects
 
